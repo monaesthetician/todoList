@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monaesthetician/todoList.git/static/css/main.1d656e54.chunk.css",
+    "main.js": "/monaesthetician/todoList.git/static/js/main.51de096e.chunk.js",
+    "main.js.map": "/monaesthetician/todoList.git/static/js/main.51de096e.chunk.js.map",
+    "runtime-main.js": "/monaesthetician/todoList.git/static/js/runtime-main.1794dcd0.js",
+    "runtime-main.js.map": "/monaesthetician/todoList.git/static/js/runtime-main.1794dcd0.js.map",
+    "static/js/2.f6a03aab.chunk.js": "/monaesthetician/todoList.git/static/js/2.f6a03aab.chunk.js",
+    "static/js/2.f6a03aab.chunk.js.map": "/monaesthetician/todoList.git/static/js/2.f6a03aab.chunk.js.map",
+    "static/js/3.8080f8cb.chunk.js": "/monaesthetician/todoList.git/static/js/3.8080f8cb.chunk.js",
+    "static/js/3.8080f8cb.chunk.js.map": "/monaesthetician/todoList.git/static/js/3.8080f8cb.chunk.js.map",
+    "index.html": "/monaesthetician/todoList.git/index.html",
+    "static/css/main.1d656e54.chunk.css.map": "/monaesthetician/todoList.git/static/css/main.1d656e54.chunk.css.map",
+    "static/js/2.f6a03aab.chunk.js.LICENSE.txt": "/monaesthetician/todoList.git/static/js/2.f6a03aab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1794dcd0.js",
+    "static/js/2.f6a03aab.chunk.js",
+    "static/css/main.1d656e54.chunk.css",
+    "static/js/main.51de096e.chunk.js"
+  ]
+}
